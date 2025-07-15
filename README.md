@@ -28,13 +28,13 @@
 
 Ось як виглядає взаємодія з ботом у Telegram:
 
-![Скріншот 1](screenshots/screenshot-1.png)  
+![Screenshot 1](screenshots/screenshot-1.png)
 Користувач ставить запитання про процедуру
 
-![Скріншот 2](screenshots/screenshot-2.png)  
+![Screenshot 2](screenshots/screenshot-2.png)
 Бот пропонує вибрати майстра
 
-![Скріншот 3](screenshots/screenshot-3.png)  
+![Screenshot 3](screenshots/screenshot-3.png)
 Підтвердження запису і нагадування
 
 ---
